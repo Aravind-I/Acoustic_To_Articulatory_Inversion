@@ -1,4 +1,5 @@
 Acoustic-to-articulatory inversion using GMM, DNN, CNN, LSTM models along with Lowpass, Kalman filtering and MLPG post processing techniques.
+
 For more details check "Complexity-performance trade-off in acoustic-to-articulatory inversion" ISSP 2020.
 
 Sources:
